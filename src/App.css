@@ -21,7 +21,7 @@
   background: green;
   margin-left: 16px;
   color:white; 
-  transition: border-color 0.5s;
+  transition: border-color 0.6s;
 }
 .produto-container header button:hover{
 

@@ -26,7 +26,7 @@ function App() {
   })
   const selecionarProduto = (produto, opcao)=>{
     setProdutoSelecionado(produto);
-    (opcao==="Editar")&&
+    (opcao==="Editar") &&
     abrirFecharModalEditar()
   }
 
